@@ -17,7 +17,7 @@
         this.activities.push(newActivityInfo);
       },
       newActivity() {
-
+        
       }
   }
 }

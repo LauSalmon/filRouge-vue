@@ -57,7 +57,10 @@
 }
 .btn {
     background-color : #FF7F3F;
-  border-color : #FF7F3F;
-  margin : 10px;
+    border-color : #FF7F3F;
+    margin : 10px;
+}
+input {
+    border-radius : 5px;
 }
 </style>
